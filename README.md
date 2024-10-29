@@ -1,5 +1,5 @@
 # Guía de Instalación de Headwind MDM
-# **Introducción
+# **Introducción**
 
 Headwind MDM es una solución de gestión de dispositivos móviles (MDM) de código abierto diseñada para ayudar a las organizaciones a gestionar, supervisar y asegurar sus dispositivos móviles de manera eficiente. Esta guía te proporcionará los pasos necesarios para instalar Headwind MDM en tu servidor, permitiéndote configurar un entorno de gestión que simplifique el control de dispositivos, la implementación de aplicaciones y el cumplimiento de políticas de seguridad.
 
@@ -10,9 +10,7 @@ El objetivo de esta guía es proporcionarte instrucciones claras y concisas para
 - Servidor Ubuntu 22.04 LTS (para pruebas, se recomienda una máquina virtual con 4 Gb de RAM, 2xCPU, 20 Gb SSD) [**Requisitos de hardware para producción**](https://h-mdm.com/hardware-requirements/)
 - Dirección IP pública (IPv4)
 - Acceso SSH
-- Nombre de dominio vinculado a la dirección pública (usamos **build.h-mdm.com**
-    
-    )
+- Nombre de dominio vinculado a la dirección pública (usamos **build.h-mdm.com**)
     
 - [**Puertos**](https://qa.h-mdm.com/16781/) abiertos
 - Acceso directo a Internet (al menos durante la instalación)
