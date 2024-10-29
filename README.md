@@ -1,14 +1,9 @@
 # Guía de Instalación de Headwind MDM
-# ***Introducción
+# **Introducción
 
 Headwind MDM es una solución de gestión de dispositivos móviles (MDM) de código abierto diseñada para ayudar a las organizaciones a gestionar, supervisar y asegurar sus dispositivos móviles de manera eficiente. Esta guía te proporcionará los pasos necesarios para instalar Headwind MDM en tu servidor, permitiéndote configurar un entorno de gestión que simplifique el control de dispositivos, la implementación de aplicaciones y el cumplimiento de políticas de seguridad.
 
 El objetivo de esta guía es proporcionarte instrucciones claras y concisas para que puedas instalar y configurar Headwind MDM de manera efectiva. Al finalizar, deberías ser capaz de acceder a la interfaz web de Headwind MDM y comenzar a gestionar tus dispositivos móviles de forma centralizada.
-
-# Requisitos Previos
-# Headwind MDM
-
-# **Configuración del servidor MDM de producción**
 
 # **Requisitos previos**
 
